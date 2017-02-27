@@ -1,0 +1,12 @@
+Name:           c2
+State:          RUNNING
+PID:            3940
+IP:             10.0.4.93
+CPU use:        1.46 seconds
+BlkIO use:      188.00 KiB
+Memory use:     21.03 MiB
+KMem use:       3.33 MiB
+Link:           vethA645IC
+ TX bytes:      2.93 KiB
+ RX bytes:      4.69 KiB
+ Total bytes:   7.62 KiB

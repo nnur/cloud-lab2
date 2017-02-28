@@ -23,5 +23,4 @@ lxc.start.auto = 1
 lxc.network.type = veth
 lxc.network.link = lxcbr0
 lxc.network.flags = up
-lxc.network.hwaddr = 00:16:4e:7a:e3:a3
 
